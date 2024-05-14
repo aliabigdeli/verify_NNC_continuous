@@ -1,0 +1,1 @@
+unzip the wights folders in 'archive' folder and replace it with 'Linear' and 'reachgraph' folders, or run the code to obtain new weights
