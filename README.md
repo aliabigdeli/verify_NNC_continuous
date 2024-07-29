@@ -1,4 +1,4 @@
-# verify_NNC_continuous
+# Verification of Neural Network Control Systems in Continuous Time
 
 Companion code for ["Verification of Neural Network Control Systems in Continuous Time"](https://arxiv.org/abs/2406.00157)
 
