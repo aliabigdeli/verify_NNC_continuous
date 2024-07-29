@@ -1,8 +1,6 @@
 # verify_NNC_continuous
 
-Companion code for "Verification of Neural Network Control Systems in Continuous Time"
-
-A. ArjomandBigdeli, A. Mata, and S. Bak
+Companion code for ["Verification of Neural Network Control Systems in Continuous Time"](https://arxiv.org/abs/2406.00157)
 
 
 Installation and requirement
@@ -44,4 +42,22 @@ For computing the abstract transitions and linear models weights, run the follow
 python runall_parallel.py
 ```
 Then you should go with the procedure mentioned earlier.
+
+
+## Citing ##
+The following citation can be used:
+
+```
+@inbook{ArjomandBigdeli_2024,
+   title={Verification of Neural Network Control Systems in Continuous Time},
+   ISBN={9783031651120},
+   ISSN={1611-3349},
+   url={http://dx.doi.org/10.1007/978-3-031-65112-0_5},
+   DOI={10.1007/978-3-031-65112-0_5},
+   booktitle={Lecture Notes in Computer Science},
+   publisher={Springer Nature Switzerland},
+   author={ArjomandBigdeli, Ali and Mata, Andrew and Bak, Stanley},
+   year={2024},
+   pages={100–115} }
+```
 
